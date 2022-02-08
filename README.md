@@ -2,5 +2,4 @@
 
 To visit the site please click on the following link below :
 
-
-https://neerajkumar201.github.io/GitHub-User-Search/githubSearch.html
+file:///C:/Users/Gangadhar/Downloads/GitHub-User-Search-main/GitHub-User-Search-main/githubSearch.html
