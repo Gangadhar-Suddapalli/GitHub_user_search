@@ -1,2 +1,6 @@
-# GitHub_user_search
-With this project we are able to search any user in the GitHub with the correct user name 
+# GitHub-User-Search
+
+To visit the site please click on the following link below :
+
+
+https://neerajkumar201.github.io/GitHub-User-Search/githubSearch.html
